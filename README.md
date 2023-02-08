@@ -8,6 +8,6 @@ Get vundle:
 
 Get this vimrc:
 
-```git clone https://github.com/okuvshynov/.vimrc.git ~/vimrc```
+```wget -O ~/.vimrc https://raw.githubusercontent.com/okuvshynov/vimrc/master/.vimrc ```
 
 In vim, run :PluginInstall
