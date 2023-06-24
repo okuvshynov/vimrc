@@ -1,13 +1,4 @@
 # vimrc
 
-basic vimrc which is easy to install everywhere, just adds vundle, solarize colorscheme, fzf and nerdtree.
+wget -O ~/vimrc_setup.sh https://raw.githubusercontent.com/okuvshynov/vimrc/master/vimrc_setup.sh && chmod +x ~/vimrc_setup.sh && ~/vimrc_setup.sh
 
-Get vundle:
-
-```git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim```
-
-Get this vimrc:
-
-```wget -O ~/.vimrc https://raw.githubusercontent.com/okuvshynov/vimrc/master/.vimrc ```
-
-In vim, run :PluginInstall
